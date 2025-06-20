@@ -40,5 +40,12 @@
     "level3": "",
     "name": "聯絡我們",
     "url": "/"
+  },
+  {
+    "level1": "香氣分類",
+    "level2": "",
+    "level3": "",
+    "name": "香氣分類",
+    "url": "/collections/%E8%BA%AB%E9%AB%94%E4%B9%B3"
   }
 ]
