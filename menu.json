@@ -1,44 +1,44 @@
 [
   {
-    "level1": "????",
+    "level1": "品牌故事",
     "level2": "",
     "level3": "",
-    "name": "????",
+    "name": "品牌故事",
     "url": "/pages/about"
   },
   {
-    "level1": "????",
-    "level2": "???",
-    "level3": "???",
-    "name": "???",
+    "level1": "商品分類",
+    "level2": "香氛皂",
+    "level3": "馬賽皂",
+    "name": "馬賽皂",
     "url": "/collections/marseille"
   },
   {
-    "level1": "????",
-    "level2": "???",
-    "level3": "???",
-    "name": "???",
+    "level1": "商品分類",
+    "level2": "香氛皂",
+    "level3": "手工皂",
+    "name": "手工皂",
     "url": "/collections/handmade"
   },
   {
-    "level1": "????",
-    "level2": "??",
-    "level3": "????",
-    "name": "????",
+    "level1": "商品分類",
+    "level2": "精油",
+    "level3": "單方精油",
+    "name": "單方精油",
     "url": "/collections/single-oil"
   },
   {
-    "level1": "????",
-    "level2": "??",
-    "level3": "????",
-    "name": "????",
+    "level1": "商品分類",
+    "level2": "精油",
+    "level3": "複方精油",
+    "name": "複方精油",
     "url": "/collections/blended-oil"
   },
   {
-    "level1": "????",
+    "level1": "聯絡我們",
     "level2": "",
     "level3": "",
-    "name": "????",
+    "name": "聯絡我們",
     "url": "/pages/contact"
   }
 ]
