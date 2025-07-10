@@ -4,55 +4,63 @@
     "level2": "",
     "level3": "",
     "name": "品牌故事",
-    "url": "/pages/about"
+    "url": "/pages/about",
+    "image_url": ""
   },
   {
     "level1": "商品分類",
     "level2": "香氛皂",
     "level3": "馬賽皂",
     "name": "馬賽皂",
-    "url": "/collections/marseille"
+    "url": "/collections/marseille",
+    "image_url": ""
   },
   {
     "level1": "商品分類",
     "level2": "香氛皂",
     "level3": "手工皂",
     "name": "手工皂",
-    "url": "/collections/handmade"
+    "url": "/collections/handmade",
+    "image_url": ""
   },
   {
     "level1": "商品分類",
     "level2": "精油",
     "level3": "單方精油",
     "name": "單方精油",
-    "url": "/collections/single-oil"
+    "url": "/collections/single-oil",
+    "image_url": ""
   },
   {
     "level1": "商品分類",
     "level2": "精油",
     "level3": "複方精油",
     "name": "複方精油",
-    "url": "/collections/blended-oil"
+    "url": "/collections/blended-oil",
+    "image_url": ""
   },
   {
     "level1": "聯絡我們",
     "level2": "",
     "level3": "",
     "name": "聯絡我們",
-    "url": "/"
+    "url": "/",
+    "image_url": ""
   },
   {
     "level1": "香氣分類",
     "level2": "",
     "level3": "",
     "name": "香氣分類",
-    "url": "/collections/%E8%BA%AB%E9%AB%94%E4%B9%B3"
+    "url": "/collections/%E8%BA%AB%E9%AB%94%E4%B9%B3",
+    "image_url": ""
   },
   {
     "level1": "情境分類",
     "level2": "",
     "level3": "",
     "name": "情境分類",
-    "url": "/collections/免運專區輸入代碼享免運"
+    "url": "/collections/免運專區輸入代碼享免運",
+    "image_url": ""
   }
 ]
