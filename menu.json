@@ -124,5 +124,50 @@
     "url": "/collections/marseille7",
     "image_url": "",
     "image_link": ""
+  },
+  {
+    "level1": "香氣分類",
+    "level2": "香的",
+    "level3": "",
+    "name": "香的",
+    "url": "/collections/pan1",
+    "image_url": "",
+    "image_link": ""
+  },
+  {
+    "level1": "香氣分類",
+    "level2": "一點點香的",
+    "level3": "",
+    "name": "一點點香的",
+    "url": "/collections/pan2",
+    "image_url": "",
+    "image_link": ""
+  },
+  {
+    "level1": "香氣分類",
+    "level2": "細微香的",
+    "level3": "",
+    "name": "細微香的",
+    "url": "/collections/pan3",
+    "image_url": "",
+    "image_link": ""
+  },
+  {
+    "level1": "香氣分類",
+    "level2": "海洋香的",
+    "level3": "",
+    "name": "海洋香的",
+    "url": "/collections/pan4",
+    "image_url": "",
+    "image_link": ""
+  },
+  {
+    "level1": "香氣分類",
+    "level2": "地衣香的",
+    "level3": "",
+    "name": "地衣香的",
+    "url": "/collections/pan5",
+    "image_url": "",
+    "image_link": ""
   }
 ]
