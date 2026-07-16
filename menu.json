@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-16T10:43:09.118Z",
+  "updatedAt": "2026-07-16T10:43:44.712Z",
   "items": [
     {
       "id": "occasions",
@@ -19,7 +19,7 @@
         },
         {
           "id": "PARFUMEUR",
-          "label": "｜PARFUMEUR 極致系列",
+          "label": "▎PARFUMEUR 極致系列",
           "url": "/collections/parfumeur-極致系列",
           "target": "_self",
           "sort": 20,
