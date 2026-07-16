@@ -1,173 +1,196 @@
-[
-  {
-    "level1": "品牌故事",
-    "level2": "",
-    "level3": "",
-    "name": "品牌故事",
-    "url": "/pages/about",
-    "image_url": "",
-    "image_link": ""
-  },
-  {
-    "level1": "商品分類",
-    "level2": "香氛皂",
-    "level3": "馬賽皂",
-    "name": "馬賽皂",
-    "url": "/collections/marseille",
-    "image_url": "https://cdn.cybassets.com/s/files/20888/ckeditor/pictures/content_eeb28d6a-ea08-4601-ad3b-6ba4ac925944.jpg",
-    "image_link": "https://www.senteurdoc.com.tw/products/%E5%A4%A7%E9%A6%AC%E5%A3%AB%E9%9D%A9%E7%8E%AB%E7%91%B0%E7%B4%94%E9%9C%B2-%E9%80%81%E8%B6%85%E6%BD%A4%E9%A6%99%E7%9A%82"
-  },
-  {
-    "level1": "商品分類",
-    "level2": "香氛皂",
-    "level3": "手工皂",
-    "name": "手工皂",
-    "url": "/collections/handmade",
-    "image_url": "",
-    "image_link": ""
-  },
-  {
-    "level1": "商品分類",
-    "level2": "精油",
-    "level3": "單方精油",
-    "name": "單方精油",
-    "url": "/collections/single-oil",
-    "image_url": "",
-    "image_link": ""
-  },
-  {
-    "level1": "商品分類",
-    "level2": "精油",
-    "level3": "複方精油",
-    "name": "複方精油",
-    "url": "/collections/blended-oil",
-    "image_url": "",
-    "image_link": ""
-  },
-  {
-    "level1": "聯絡我們",
-    "level2": "",
-    "level3": "",
-    "name": "聯絡我們",
-    "url": "/",
-    "image_url": "",
-    "image_link": ""
-  },
-  {
-    "level1": "香氣分類",
-    "level2": "",
-    "level3": "",
-    "name": "香氣分類",
-    "url": "/collections/%E8%BA%AB%E9%AB%94%E4%B9%B3",
-    "image_url": "//cdn.cybassets.com/s/files/20888/ckeditor/pictures/content_4c61f727-a354-4006-b77c-815517935017.jpg",
-    "image_link": "https://www.senteurdoc.com.tw/products/%E6%AD%90%E5%B7%B4%E6%8B%89%E6%9C%B5-%E5%BF%8D%E5%86%AC%E8%9C%82%E8%9C%9C%E6%B4%97%E9%AB%AE%E7%B2%BE1l-sale"
-  },
-  {
-    "level1": "情境分類",
-    "level2": "",
-    "level3": "",
-    "name": "情境分類",
-    "url": "/collections/免運專區輸入代碼享免運",
-    "image_url": "",
-    "image_link": ""
-  },
-  {
-    "level1": "商品分類",
-    "level2": "香氛皂",
-    "level3": "馬賽皂0",
-    "name": "馬賽皂0",
-    "url": "/collections/%E8%BA%AB%E9%AB%94%E4%B9%B3",
-    "image_url": "",
-    "image_link": ""
-  },
-  {
-    "level1": "商品分類",
-    "level2": "香氛皂",
-    "level3": "馬賽皂1",
-    "name": "馬賽皂1",
-    "url": "/collections/marseille1",
-    "image_url": "",
-    "image_link": ""
-  },
-  {
-    "level1": "商品分類",
-    "level2": "香氛皂",
-    "level3": "馬賽皂2",
-    "name": "馬賽皂2",
-    "url": "/collections/marseille2",
-    "image_url": "",
-    "image_link": ""
-  },
-  {
-    "level1": "商品分類",
-    "level2": "香氛皂",
-    "level3": "馬賽皂3",
-    "name": "馬賽皂3",
-    "url": "/collections/marseille3",
-    "image_url": "",
-    "image_link": ""
-  },
-  {
-    "level1": "商品分類",
-    "level2": "香氛皂",
-    "level3": "馬賽皂4",
-    "name": "馬賽皂4",
-    "url": "/collections/marseille4",
-    "image_url": "",
-    "image_link": ""
-  },
-  {
-    "level1": "商品分類",
-    "level2": "香氛皂",
-    "level3": "馬賽皂7",
-    "name": "馬賽皂7",
-    "url": "/collections/marseille7",
-    "image_url": "",
-    "image_link": ""
-  },
-  {
-    "level1": "香氣分類",
-    "level2": "香的",
-    "level3": "",
-    "name": "香的",
-    "url": "/collections/pan1",
-    "image_url": "",
-    "image_link": ""
-  },
-  {
-    "level1": "香氣分類",
-    "level2": "一點點香的",
-    "level3": "",
-    "name": "一點點香的",
-    "url": "/collections/pan2",
-    "image_url": "",
-    "image_link": ""
-  },
-  {
-    "level1": "香氣分類",
-    "level2": "細微香的",
-    "level3": "",
-    "name": "細微香的",
-    "url": "/collections/pan3",
-    "image_url": "",
-    "image_link": ""
-  },
-  {
-    "level1": "香氣分類",
-    "level2": "海洋香的",
-    "level3": "",
-    "name": "海洋香的",
-    "url": "/collections/pan4",
-    "image_url": "",
-    "image_link": ""
-  },
-  {
-    "level1": "香氣分類",
-    "level2": "地衣香的",
-    "level3": "",
-    "name": "地衣香的",
-    "url": "/collections/pan5",
-    "image_url": "",
-    "image_link": ""
-  }
-]
+{
+  "schemaVersion": 2,
+  "updatedAt": "2026-07-16T08:33:10.398Z",
+  "items": [
+    {
+      "id": "brand-story",
+      "label": "品牌故事",
+      "url": "/pages/about",
+      "target": "_self",
+      "sort": 10,
+      "children": []
+    },
+    {
+      "id": "products",
+      "label": "商品分類",
+      "url": "",
+      "target": "_self",
+      "sort": 20,
+      "children": [
+        {
+          "id": "scented-soaps",
+          "label": "香氛皂",
+          "url": "",
+          "target": "_self",
+          "sort": 10,
+          "children": [
+            {
+              "id": "marseille-soap",
+              "label": "馬賽皂",
+              "url": "/collections/marseille",
+              "target": "_self",
+              "sort": 10,
+              "children": [],
+              "image": {
+                "src": "https://cdn.cybassets.com/s/files/20888/ckeditor/pictures/content_eeb28d6a-ea08-4601-ad3b-6ba4ac925944.jpg",
+                "href": "https://www.senteurdoc.com.tw/products/%E5%A4%A7%E9%A6%AC%E5%A3%AB%E9%9D%A9%E7%8E%AB%E7%91%B0%E7%B4%94%E9%9C%B2-%E9%80%81%E8%B6%85%E6%BD%A4%E9%A6%99%E7%9A%82",
+                "alt": "馬賽皂推薦"
+              }
+            },
+            {
+              "id": "handmade-soap",
+              "label": "手工皂",
+              "url": "/collections/handmade",
+              "target": "_self",
+              "sort": 20,
+              "children": []
+            },
+            {
+              "id": "marseille-soap-0",
+              "label": "馬賽皂0",
+              "url": "/collections/%E8%BA%AB%E9%AB%94%E4%B9%B3",
+              "target": "_self",
+              "sort": 30,
+              "children": []
+            },
+            {
+              "id": "marseille-soap-1",
+              "label": "馬賽皂1",
+              "url": "/collections/marseille1",
+              "target": "_self",
+              "sort": 40,
+              "children": []
+            },
+            {
+              "id": "marseille-soap-2",
+              "label": "馬賽皂2",
+              "url": "/collections/marseille2",
+              "target": "_self",
+              "sort": 50,
+              "children": []
+            },
+            {
+              "id": "marseille-soap-3",
+              "label": "馬賽皂3",
+              "url": "/collections/marseille3",
+              "target": "_self",
+              "sort": 60,
+              "children": []
+            },
+            {
+              "id": "marseille-soap-4",
+              "label": "馬賽皂4",
+              "url": "/collections/marseille4",
+              "target": "_self",
+              "sort": 70,
+              "children": []
+            },
+            {
+              "id": "marseille-soap-7",
+              "label": "馬賽皂7",
+              "url": "/collections/marseille7",
+              "target": "_self",
+              "sort": 80,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "essential-oils",
+          "label": "精油",
+          "url": "",
+          "target": "_self",
+          "sort": 20,
+          "children": [
+            {
+              "id": "single-essential-oil",
+              "label": "單方精油",
+              "url": "/collections/single-oil",
+              "target": "_self",
+              "sort": 10,
+              "children": []
+            },
+            {
+              "id": "blended-essential-oil",
+              "label": "複方精油",
+              "url": "/collections/blended-oil",
+              "target": "_self",
+              "sort": 20,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "label": "聯絡我們",
+      "url": "/",
+      "target": "_self",
+      "sort": 30,
+      "children": []
+    },
+    {
+      "id": "scents",
+      "label": "香氣分類",
+      "url": "/collections/%E8%BA%AB%E9%AB%94%E4%B9%B3",
+      "target": "_self",
+      "sort": 40,
+      "children": [
+        {
+          "id": "scent-pan-1",
+          "label": "香的",
+          "url": "/collections/pan1",
+          "target": "_self",
+          "sort": 10,
+          "children": []
+        },
+        {
+          "id": "scent-pan-2",
+          "label": "一點點香的",
+          "url": "/collections/pan2",
+          "target": "_self",
+          "sort": 20,
+          "children": []
+        },
+        {
+          "id": "scent-pan-3",
+          "label": "細微香的",
+          "url": "/collections/pan3",
+          "target": "_self",
+          "sort": 30,
+          "children": []
+        },
+        {
+          "id": "scent-pan-4",
+          "label": "海洋香的",
+          "url": "/collections/pan4",
+          "target": "_self",
+          "sort": 40,
+          "children": []
+        },
+        {
+          "id": "scent-pan-5",
+          "label": "地衣香的",
+          "url": "/collections/pan5",
+          "target": "_self",
+          "sort": 50,
+          "children": []
+        }
+      ],
+      "image": {
+        "src": "https://cdn.cybassets.com/s/files/20888/ckeditor/pictures/content_4c61f727-a354-4006-b77c-815517935017.jpg",
+        "href": "https://www.senteurdoc.com.tw/products/%E6%AD%90%E5%B7%B4%E6%8B%89%E6%9C%B5-%E5%BF%8D%E5%86%AC%E8%9C%82%E8%9C%9C%E6%B4%97%E9%AB%AE%E7%B2%BE1l-sale",
+        "alt": "香氣分類推薦"
+      }
+    },
+    {
+      "id": "occasions",
+      "label": "情境分類",
+      "url": "/collections/免運專區輸入代碼享免運",
+      "target": "_self",
+      "sort": 50,
+      "children": []
+    }
+  ]
+}
