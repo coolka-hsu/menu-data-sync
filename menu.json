@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-16T10:41:11.506Z",
+  "updatedAt": "2026-07-16T10:42:38.596Z",
   "items": [
     {
       "id": "occasions",
@@ -139,7 +139,7 @@
         },
         {
           "id": "fragrance-diffusers",
-          "label": "❙擴香組",
+          "label": "❙ 擴香組",
           "url": "/collections/擴香組",
           "target": "_self",
           "sort": 40,
