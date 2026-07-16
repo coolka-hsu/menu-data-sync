@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-16T09:29:28.840Z",
+  "updatedAt": "2026-07-16T09:30:18.909Z",
   "items": [
     {
       "id": "occasions",
@@ -87,31 +87,6 @@
           "target": "_self",
           "sort": 20,
           "children": []
-        },
-        {
-          "id": "essential-oils",
-          "label": "精油",
-          "url": "",
-          "target": "_self",
-          "sort": 20,
-          "children": [
-            {
-              "id": "single-essential-oil",
-              "label": "單方精油",
-              "url": "/collections/single-oil",
-              "target": "_self",
-              "sort": 10,
-              "children": []
-            },
-            {
-              "id": "blended-essential-oil",
-              "label": "複方精油",
-              "url": "/collections/blended-oil",
-              "target": "_self",
-              "sort": 20,
-              "children": []
-            }
-          ]
         },
         {
           "id": "liquide-marseille-soap",
