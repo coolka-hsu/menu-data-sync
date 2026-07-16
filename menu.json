@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-16T10:42:38.596Z",
+  "updatedAt": "2026-07-16T10:43:09.118Z",
   "items": [
     {
       "id": "occasions",
@@ -11,7 +11,7 @@
       "children": [
         {
           "id": "EXTRA-PUR",
-          "label": "❙EXTRA PUR 經典系列",
+          "label": "❙ EXTRA PUR 經典系列",
           "url": "/collections/extra-pur-經典系列",
           "target": "_self",
           "sort": 10,
