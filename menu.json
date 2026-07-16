@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-16T10:37:55.162Z",
+  "updatedAt": "2026-07-16T10:41:11.506Z",
   "items": [
     {
       "id": "occasions",
@@ -11,7 +11,7 @@
       "children": [
         {
           "id": "EXTRA-PUR",
-          "label": "｜EXTRA PUR 經典系列",
+          "label": "❙EXTRA PUR 經典系列",
           "url": "/collections/extra-pur-經典系列",
           "target": "_self",
           "sort": 10,
@@ -139,7 +139,7 @@
         },
         {
           "id": "fragrance-diffusers",
-          "label": "｜擴香組",
+          "label": "❙擴香組",
           "url": "/collections/擴香組",
           "target": "_self",
           "sort": 40,
