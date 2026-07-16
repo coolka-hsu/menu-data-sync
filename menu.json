@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-16T09:50:43.663Z",
+  "updatedAt": "2026-07-16T10:00:30.764Z",
   "items": [
     {
       "id": "occasions",
       "label": "產品系列",
-      "url": "/collections/免運專區輸入代碼享免運",
+      "url": "",
       "target": "_self",
       "sort": 10,
       "children": [
@@ -38,7 +38,7 @@
     {
       "id": "scents",
       "label": "香調選擇",
-      "url": "/collections/%E8%BA%AB%E9%AB%94%E4%B9%B3",
+      "url": "",
       "target": "_self",
       "sort": 20,
       "children": [
