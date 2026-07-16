@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-16T09:18:53.188Z",
+  "updatedAt": "2026-07-16T09:29:28.840Z",
   "items": [
     {
       "id": "occasions",
@@ -61,7 +61,8 @@
       "image": {
         "src": "https://cdn.cybassets.com/s/files/20888/ckeditor/pictures/content_4c61f727-a354-4006-b77c-815517935017.jpg",
         "href": "https://www.senteurdoc.com.tw/products/%E6%AD%90%E5%B7%B4%E6%8B%89%E6%9C%B5-%E5%BF%8D%E5%86%AC%E8%9C%82%E8%9C%9C%E6%B4%97%E9%AB%AE%E7%B2%BE1l-sale",
-        "alt": "香氣分類推薦"
+        "alt": "香氣分類推薦",
+        "label": "香氣分類推薦"
       }
     },
     {
@@ -72,82 +73,20 @@
       "sort": 30,
       "children": [
         {
-          "id": "scented-soaps",
-          "label": "香氛皂",
-          "url": "",
+          "id": "handcream",
+          "label": "護手霜",
+          "url": "/collections/護手霜",
           "target": "_self",
           "sort": 10,
-          "children": [
-            {
-              "id": "marseille-soap",
-              "label": "馬賽皂",
-              "url": "/collections/marseille",
-              "target": "_self",
-              "sort": 10,
-              "children": [],
-              "image": {
-                "src": "https://cdn.cybassets.com/s/files/20888/ckeditor/pictures/content_eeb28d6a-ea08-4601-ad3b-6ba4ac925944.jpg",
-                "href": "https://www.senteurdoc.com.tw/products/%E5%A4%A7%E9%A6%AC%E5%A3%AB%E9%9D%A9%E7%8E%AB%E7%91%B0%E7%B4%94%E9%9C%B2-%E9%80%81%E8%B6%85%E6%BD%A4%E9%A6%99%E7%9A%82",
-                "alt": "馬賽皂推薦"
-              }
-            },
-            {
-              "id": "handmade-soap",
-              "label": "手工皂",
-              "url": "/collections/handmade",
-              "target": "_self",
-              "sort": 20,
-              "children": []
-            },
-            {
-              "id": "marseille-soap-0",
-              "label": "馬賽皂0",
-              "url": "/collections/%E8%BA%AB%E9%AB%94%E4%B9%B3",
-              "target": "_self",
-              "sort": 30,
-              "children": []
-            },
-            {
-              "id": "marseille-soap-1",
-              "label": "馬賽皂1",
-              "url": "/collections/marseille1",
-              "target": "_self",
-              "sort": 40,
-              "children": []
-            },
-            {
-              "id": "marseille-soap-2",
-              "label": "馬賽皂2",
-              "url": "/collections/marseille2",
-              "target": "_self",
-              "sort": 50,
-              "children": []
-            },
-            {
-              "id": "marseille-soap-3",
-              "label": "馬賽皂3",
-              "url": "/collections/marseille3",
-              "target": "_self",
-              "sort": 60,
-              "children": []
-            },
-            {
-              "id": "marseille-soap-4",
-              "label": "馬賽皂4",
-              "url": "/collections/marseille4",
-              "target": "_self",
-              "sort": 70,
-              "children": []
-            },
-            {
-              "id": "marseille-soap-7",
-              "label": "馬賽皂7",
-              "url": "/collections/marseille7",
-              "target": "_self",
-              "sort": 80,
-              "children": []
-            }
-          ]
+          "children": []
+        },
+        {
+          "id": "bodylotion",
+          "label": "身體乳",
+          "url": "/collections/身體乳",
+          "target": "_self",
+          "sort": 20,
+          "children": []
         },
         {
           "id": "essential-oils",
@@ -173,6 +112,30 @@
               "children": []
             }
           ]
+        },
+        {
+          "id": "liquide-marseille-soap",
+          "label": "馬賽皂潔膚露",
+          "url": "/collections/馬賽皂潔膚露",
+          "target": "_self",
+          "sort": 30,
+          "children": []
+        },
+        {
+          "id": "fragrance-diffusers",
+          "label": "擴香組",
+          "url": "/collections/擴香組",
+          "target": "_self",
+          "sort": 40,
+          "children": []
+        },
+        {
+          "id": "scented-candle",
+          "label": "香氛蠟燭",
+          "url": "/collections/香氛蠟燭",
+          "target": "_self",
+          "sort": 50,
+          "children": []
         }
       ]
     },
