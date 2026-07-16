@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-16T09:30:18.909Z",
+  "updatedAt": "2026-07-16T09:50:43.663Z",
   "items": [
     {
       "id": "occasions",
@@ -8,7 +8,32 @@
       "url": "/collections/免運專區輸入代碼享免運",
       "target": "_self",
       "sort": 10,
-      "children": []
+      "children": [
+        {
+          "id": "EXTRA-PUR",
+          "label": "經典系列",
+          "url": "/collections/extra-pur-經典系列",
+          "target": "_self",
+          "sort": 10,
+          "children": []
+        },
+        {
+          "id": "PARFUMEUR",
+          "label": "極致系列",
+          "url": "/collections/parfumeur-極致系列",
+          "target": "_self",
+          "sort": 20,
+          "children": []
+        },
+        {
+          "id": "APOTHICAIRE",
+          "label": "琥珀系列",
+          "url": "/collections/apothicaire-琥珀系列",
+          "target": "_self",
+          "sort": 30,
+          "children": []
+        }
+      ]
     },
     {
       "id": "scents",
@@ -18,43 +43,59 @@
       "sort": 20,
       "children": [
         {
-          "id": "scent-pan-1",
-          "label": "香的",
-          "url": "/collections/pan1",
+          "id": "Tea",
+          "label": "茶香調",
+          "url": "/collections/茶香調-tea",
           "target": "_self",
           "sort": 10,
           "children": []
         },
         {
-          "id": "scent-pan-2",
-          "label": "一點點香的",
-          "url": "/collections/pan2",
+          "id": "Floral",
+          "label": "花香調",
+          "url": "/collections/花香調-floral",
           "target": "_self",
           "sort": 20,
           "children": []
         },
         {
-          "id": "scent-pan-3",
-          "label": "細微香的",
-          "url": "/collections/pan3",
+          "id": "Woody",
+          "label": "木質調",
+          "url": "/collections/木質調-woody",
           "target": "_self",
           "sort": 30,
           "children": []
         },
         {
-          "id": "scent-pan-4",
-          "label": "海洋香的",
-          "url": "/collections/pan4",
+          "id": "Green",
+          "label": "綠葉調",
+          "url": "/collections/綠葉調-green",
           "target": "_self",
           "sort": 40,
           "children": []
         },
         {
-          "id": "scent-pan-5",
-          "label": "地衣香的",
-          "url": "/collections/pan5",
+          "id": "Marine",
+          "label": "海洋調",
+          "url": "/collections/海洋調-marine",
           "target": "_self",
           "sort": 50,
+          "children": []
+        },
+        {
+          "id": "Fruity",
+          "label": "果香調",
+          "url": "/collections/果香調-fruity",
+          "target": "_self",
+          "sort": 60,
+          "children": []
+        },
+        {
+          "id": "Amber",
+          "label": "琥珀調",
+          "url": "/collections/琥珀調-amber",
+          "target": "_self",
+          "sort": 70,
           "children": []
         }
       ],
