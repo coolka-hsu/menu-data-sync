@@ -1,13 +1,75 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-16T09:15:27.356Z",
+  "updatedAt": "2026-07-16T09:18:53.188Z",
   "items": [
+    {
+      "id": "occasions",
+      "label": "產品系列",
+      "url": "/collections/免運專區輸入代碼享免運",
+      "target": "_self",
+      "sort": 10,
+      "children": []
+    },
+    {
+      "id": "scents",
+      "label": "香調選擇",
+      "url": "/collections/%E8%BA%AB%E9%AB%94%E4%B9%B3",
+      "target": "_self",
+      "sort": 20,
+      "children": [
+        {
+          "id": "scent-pan-1",
+          "label": "香的",
+          "url": "/collections/pan1",
+          "target": "_self",
+          "sort": 10,
+          "children": []
+        },
+        {
+          "id": "scent-pan-2",
+          "label": "一點點香的",
+          "url": "/collections/pan2",
+          "target": "_self",
+          "sort": 20,
+          "children": []
+        },
+        {
+          "id": "scent-pan-3",
+          "label": "細微香的",
+          "url": "/collections/pan3",
+          "target": "_self",
+          "sort": 30,
+          "children": []
+        },
+        {
+          "id": "scent-pan-4",
+          "label": "海洋香的",
+          "url": "/collections/pan4",
+          "target": "_self",
+          "sort": 40,
+          "children": []
+        },
+        {
+          "id": "scent-pan-5",
+          "label": "地衣香的",
+          "url": "/collections/pan5",
+          "target": "_self",
+          "sort": 50,
+          "children": []
+        }
+      ],
+      "image": {
+        "src": "https://cdn.cybassets.com/s/files/20888/ckeditor/pictures/content_4c61f727-a354-4006-b77c-815517935017.jpg",
+        "href": "https://www.senteurdoc.com.tw/products/%E6%AD%90%E5%B7%B4%E6%8B%89%E6%9C%B5-%E5%BF%8D%E5%86%AC%E8%9C%82%E8%9C%9C%E6%B4%97%E9%AB%AE%E7%B2%BE1l-sale",
+        "alt": "香氣分類推薦"
+      }
+    },
     {
       "id": "products",
       "label": "產品分類",
       "url": "",
       "target": "_self",
-      "sort": 20,
+      "sort": 30,
       "children": [
         {
           "id": "scented-soaps",
@@ -115,65 +177,11 @@
       ]
     },
     {
-      "id": "scents",
-      "label": "香調選擇",
-      "url": "/collections/%E8%BA%AB%E9%AB%94%E4%B9%B3",
-      "target": "_self",
-      "sort": 40,
-      "children": [
-        {
-          "id": "scent-pan-1",
-          "label": "香的",
-          "url": "/collections/pan1",
-          "target": "_self",
-          "sort": 10,
-          "children": []
-        },
-        {
-          "id": "scent-pan-2",
-          "label": "一點點香的",
-          "url": "/collections/pan2",
-          "target": "_self",
-          "sort": 20,
-          "children": []
-        },
-        {
-          "id": "scent-pan-3",
-          "label": "細微香的",
-          "url": "/collections/pan3",
-          "target": "_self",
-          "sort": 30,
-          "children": []
-        },
-        {
-          "id": "scent-pan-4",
-          "label": "海洋香的",
-          "url": "/collections/pan4",
-          "target": "_self",
-          "sort": 40,
-          "children": []
-        },
-        {
-          "id": "scent-pan-5",
-          "label": "地衣香的",
-          "url": "/collections/pan5",
-          "target": "_self",
-          "sort": 50,
-          "children": []
-        }
-      ],
-      "image": {
-        "src": "https://cdn.cybassets.com/s/files/20888/ckeditor/pictures/content_4c61f727-a354-4006-b77c-815517935017.jpg",
-        "href": "https://www.senteurdoc.com.tw/products/%E6%AD%90%E5%B7%B4%E6%8B%89%E6%9C%B5-%E5%BF%8D%E5%86%AC%E8%9C%82%E8%9C%9C%E6%B4%97%E9%AB%AE%E7%B2%BE1l-sale",
-        "alt": "香氣分類推薦"
-      }
-    },
-    {
-      "id": "occasions",
-      "label": "產品系列",
+      "id": "news",
+      "label": "最新優惠",
       "url": "/collections/免運專區輸入代碼享免運",
       "target": "_self",
-      "sort": 50,
+      "sort": 40,
       "children": []
     }
   ]
