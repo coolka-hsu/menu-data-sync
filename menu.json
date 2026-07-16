@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-16T10:43:44.712Z",
+  "updatedAt": "2026-07-16T10:46:14.349Z",
   "items": [
     {
       "id": "occasions",
@@ -11,7 +11,7 @@
       "children": [
         {
           "id": "EXTRA-PUR",
-          "label": "❙ EXTRA PUR 經典系列",
+          "label": "▎EXTRA PUR 經典系列",
           "url": "/collections/extra-pur-經典系列",
           "target": "_self",
           "sort": 10,
@@ -27,7 +27,7 @@
         },
         {
           "id": "APOTHICAIRE",
-          "label": "｜APOTHICAIRE 琥珀系列",
+          "label": "▎APOTHICAIRE 琥珀系列",
           "url": "/collections/apothicaire-琥珀系列",
           "target": "_self",
           "sort": 30,
@@ -44,7 +44,7 @@
       "children": [
         {
           "id": "Tea",
-          "label": "｜茶香調 Tea",
+          "label": "▎茶香調 Tea",
           "url": "/collections/茶香調-tea",
           "target": "_self",
           "sort": 10,
@@ -52,7 +52,7 @@
         },
         {
           "id": "Floral",
-          "label": "｜花香調 Floral",
+          "label": "▎花香調 Floral",
           "url": "/collections/花香調-floral",
           "target": "_self",
           "sort": 20,
@@ -60,7 +60,7 @@
         },
         {
           "id": "Woody",
-          "label": "｜木質調 Woody",
+          "label": "▎木質調 Woody",
           "url": "/collections/木質調-woody",
           "target": "_self",
           "sort": 30,
@@ -68,7 +68,7 @@
         },
         {
           "id": "Green",
-          "label": "｜綠葉調 Green",
+          "label": "▎綠葉調 Green",
           "url": "/collections/綠葉調-green",
           "target": "_self",
           "sort": 40,
@@ -76,7 +76,7 @@
         },
         {
           "id": "Marine",
-          "label": "｜海洋調 Marine",
+          "label": "▎海洋調 Marine",
           "url": "/collections/海洋調-marine",
           "target": "_self",
           "sort": 50,
@@ -84,7 +84,7 @@
         },
         {
           "id": "Fruity",
-          "label": "｜果香調 Fruity",
+          "label": "▎果香調 Fruity",
           "url": "/collections/果香調-fruity",
           "target": "_self",
           "sort": 60,
@@ -92,7 +92,7 @@
         },
         {
           "id": "Amber",
-          "label": "｜琥珀調 Amber",
+          "label": "▎琥珀調 Amber",
           "url": "/collections/琥珀調-amber",
           "target": "_self",
           "sort": 70,
@@ -115,7 +115,7 @@
       "children": [
         {
           "id": "handcream",
-          "label": "∣護手霜",
+          "label": "▎護手霜",
           "url": "/collections/護手霜",
           "target": "_self",
           "sort": 10,
@@ -123,7 +123,7 @@
         },
         {
           "id": "bodylotion",
-          "label": "∣身體乳",
+          "label": "▎身體乳",
           "url": "/collections/身體乳",
           "target": "_self",
           "sort": 20,
@@ -131,7 +131,7 @@
         },
         {
           "id": "liquide-marseille-soap",
-          "label": "∣馬賽皂潔膚露",
+          "label": "▎馬賽皂潔膚露",
           "url": "/collections/馬賽皂潔膚露",
           "target": "_self",
           "sort": 30,
@@ -139,7 +139,7 @@
         },
         {
           "id": "fragrance-diffusers",
-          "label": "❙ 擴香組",
+          "label": "▎擴香組",
           "url": "/collections/擴香組",
           "target": "_self",
           "sort": 40,
@@ -147,7 +147,7 @@
         },
         {
           "id": "scented-candle",
-          "label": "｜香氛蠟燭",
+          "label": "▎香氛蠟燭",
           "url": "/collections/香氛蠟燭",
           "target": "_self",
           "sort": 50,
