@@ -1,18 +1,10 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-16T08:33:10.398Z",
+  "updatedAt": "2026-07-16T09:15:27.356Z",
   "items": [
     {
-      "id": "brand-story",
-      "label": "品牌故事",
-      "url": "/pages/about",
-      "target": "_self",
-      "sort": 10,
-      "children": []
-    },
-    {
       "id": "products",
-      "label": "商品分類",
+      "label": "產品分類",
       "url": "",
       "target": "_self",
       "sort": 20,
@@ -123,16 +115,8 @@
       ]
     },
     {
-      "id": "contact",
-      "label": "聯絡我們",
-      "url": "/",
-      "target": "_self",
-      "sort": 30,
-      "children": []
-    },
-    {
       "id": "scents",
-      "label": "香氣分類",
+      "label": "香調選擇",
       "url": "/collections/%E8%BA%AB%E9%AB%94%E4%B9%B3",
       "target": "_self",
       "sort": 40,
@@ -186,7 +170,7 @@
     },
     {
       "id": "occasions",
-      "label": "情境分類",
+      "label": "產品系列",
       "url": "/collections/免運專區輸入代碼享免運",
       "target": "_self",
       "sort": 50,
