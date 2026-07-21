@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-21T01:48:09.944Z",
+  "updatedAt": "2026-07-21T02:20:57.346Z",
   "items": [
     {
       "id": "occasions",
@@ -152,7 +152,7 @@
     {
       "id": "news",
       "label": "最新優惠",
-      "url": "/collections/免運專區輸入代碼享免運",
+      "url": "/collections/compagnie-de-provence",
       "target": "_self",
       "sort": 40,
       "children": []
